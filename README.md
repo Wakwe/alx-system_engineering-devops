@@ -1,0 +1,1 @@
+This repo contains solution to devops quizzes
