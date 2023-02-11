@@ -1,0 +1,1 @@
+This folder contains solutions to the quiz on shell basics
